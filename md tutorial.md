@@ -69,9 +69,9 @@ H~2~O
 
 `click [here](https://google.com)`
 
-`click [here`](###加粗、倾斜、加粗+倾斜、underline)
+`click [here`](###blod、tilt、bold+tilt、underline)
 
-- Attention：井号后面不能有空格！
+- Attention：no space after `#`！
 
 
 
