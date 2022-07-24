@@ -71,7 +71,7 @@ H~2~O
 
 - [ ] nihao
 - [ ] hello
-- [x] Get out of bed
+- [x] Get out home
 
 
 
