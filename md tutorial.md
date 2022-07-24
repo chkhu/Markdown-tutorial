@@ -1,6 +1,6 @@
 # M⬇️ Language Tutorial(basic grammer)
 
-![avater](/Users/gyc/Desktop/Markdown-tutorial/md tutorial.assets/KIleGjL7XaBORgo.png)
+![avater](https://s2.loli.net/2022/07/23/KIleGjL7XaBORgo.png)
 
 ## Catalog
 - [M⬇️ Language Tutorial(basic grammer)](#m️-language-tutorialbasic-grammer)
